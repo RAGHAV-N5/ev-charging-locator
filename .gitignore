@@ -19,7 +19,10 @@ expo-env.d.ts
 
 # Metro
 .metro-health-check*
-
+GlobalApi.js 
+FirebaseConfig.js 
+SearchBar.jsx
+HomeScreen.jsx
 # debug
 npm-debug.*
 yarn-debug.*

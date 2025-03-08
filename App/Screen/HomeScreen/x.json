@@ -1,0 +1,651 @@
+HELLO [
+    {
+        "geometry": {
+            "location": [Object
+            ],
+            "viewport": [Object
+            ]
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/geocode-71.png",
+        "icon_background_color": "#7B9EB0",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+        "name": "Bengaluru",
+        "photos": [
+            [Object
+            ]
+        ],
+        "place_id": "ChIJbU60yXAWrjsR4E9-UejD3_g",
+        "reference": "ChIJbU60yXAWrjsR4E9-UejD3_g",
+        "scope": "GOOGLE",
+        "types": [
+            "locality",
+            "political"
+        ],
+        "vicinity": "Bengaluru"
+    },
+    {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+            "location": [Object
+            ],
+            "viewport": [Object
+            ]
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/school-71.png",
+        "icon_background_color": "#7B9EB0",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/school_pinlet",
+        "name": "Indian Statistical Institute, Bangalore Centre",
+        "opening_hours": {
+            "open_now": false
+        },
+        "photos": [
+            [Object
+            ]
+        ],
+        "place_id": "ChIJodI_L-4-rjsRlXBm12A3wYI",
+        "plus_code": {
+            "compound_code": "WGJ3+X6 Bengaluru, Karnataka, India",
+            "global_code": "7J4VWGJ3+X6"
+        },
+        "rating": 4.5,
+        "reference": "ChIJodI_L-4-rjsRlXBm12A3wYI",
+        "scope": "GOOGLE",
+        "types": [
+            "point_of_interest",
+            "establishment"
+        ],
+        "user_ratings_total": 307,
+        "vicinity": "8th Mile, Mysore Road, RVCE Post, Bengaluru"
+    },
+    {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+            "location": [Object
+            ],
+            "viewport": [Object
+            ]
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+        "icon_background_color": "#FF9E67",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+        "name": "Domino's Pizza",
+        "opening_hours": {
+            "open_now": true
+        },
+        "photos": [
+            [Object
+            ]
+        ],
+        "place_id": "ChIJFwzdEOEXrjsRvc7-Zgr53mY",
+        "plus_code": {
+            "compound_code": "WGG8+6P Bengaluru, Karnataka, India",
+            "global_code": "7J4VWGG8+6P"
+        },
+        "price_level": 2,
+        "rating": 3.8,
+        "reference": "ChIJFwzdEOEXrjsRvc7-Zgr53mY",
+        "scope": "GOOGLE",
+        "types": [
+            "meal_takeaway",
+            "meal_delivery",
+            "restaurant",
+            "point_of_interest",
+            "food",
+            "establishment"
+        ],
+        "user_ratings_total": 3307,
+        "vicinity": "D-98, Ground Floor, 12th Cross Road Opp Reliance Fresh, Remco Bhel Layout, Ideal Homes Township, Kenchenhalli, Rajarajeshwari Nagar, Bengaluru"
+    },
+    {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+            "location": [Object
+            ],
+            "viewport": [Object
+            ]
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+        "icon_background_color": "#FF9E67",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+        "name": "Just Bake",
+        "opening_hours": {
+            "open_now": true
+        },
+        "photos": [
+            [Object
+            ]
+        ],
+        "place_id": "ChIJ39vBnqs_rjsRm5GLY1mG9fk",
+        "price_level": 2,
+        "rating": 3.9,
+        "reference": "ChIJ39vBnqs_rjsRm5GLY1mG9fk",
+        "scope": "GOOGLE",
+        "types": [
+            "bakery",
+            "point_of_interest",
+            "store",
+            "food",
+            "establishment"
+        ],
+        "user_ratings_total": 907,
+        "vicinity": "WG8C+38C, near Kanti Sweets, opp. Syndicate Bank, 1105, Jawaharlal Nehru Road, BEML Layout, BEML Layout 3rd Stage, Rajarajeshwari Nagar, Bengaluru"
+    },
+    {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+            "location": [Object
+            ],
+            "viewport": [Object
+            ]
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/school-71.png",
+        "icon_background_color": "#7B9EB0",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/school_pinlet",
+        "name": "JSS Academy Of Technical Education",
+        "opening_hours": {
+            "open_now": false
+        },
+        "photos": [
+            [Object
+            ]
+        ],
+        "place_id": "ChIJEV7hBqAVrjsRGCKoznV4QqM",
+        "plus_code": {
+            "compound_code": "WG33+6V Bengaluru, Karnataka, India",
+            "global_code": "7J4VWG33+6V"
+        },
+        "rating": 4.2,
+        "reference": "ChIJEV7hBqAVrjsRGCKoznV4QqM",
+        "scope": "GOOGLE",
+        "types": [
+            "university",
+            "point_of_interest",
+            "establishment"
+        ],
+        "user_ratings_total": 992,
+        "vicinity": "JSSATE-B Campus, Dr.Vishnuvardhan Rd Uttarahalli-Kengeri Main Road, JSS Campus Road, Srinivaspura, Bengaluru"
+    },
+    {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+            "location": [Object
+            ],
+            "viewport": [Object
+            ]
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+        "icon_background_color": "#909CE1",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/hotel_pinlet",
+        "name": "OYO 12981 DBR SUITES",
+        "photos": [
+            [Object
+            ]
+        ],
+        "place_id": "ChIJsTjFK5c_rjsRytoAEuBIHI0",
+        "plus_code": {
+            "compound_code": "WG33+WR Bengaluru, Karnataka, India",
+            "global_code": "7J4VWG33+WR"
+        },
+        "rating": 4,
+        "reference": "ChIJsTjFK5c_rjsRytoAEuBIHI0",
+        "scope": "GOOGLE",
+        "types": [
+            "lodging",
+            "point_of_interest",
+            "establishment"
+        ],
+        "user_ratings_total": 7,
+        "vicinity": "beside UCO bank, 149, Dr.Vishnuvardhan Road, Rajarajeshwari Nagar, Bengaluru"
+    },
+    {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+            "location": [Object
+            ],
+            "viewport": [Object
+            ]
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/bank-71.png",
+        "icon_background_color": "#909CE1",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/bank-intl_pinlet",
+        "name": "SyndicateBank Bengaluru Kengeri Satellite Town Branch",
+        "opening_hours": {
+            "open_now": false
+        },
+        "photos": [
+            [Object
+            ]
+        ],
+        "place_id": "ChIJjwL9k9k-rjsRot9vKgzUpW4",
+        "plus_code": {
+            "compound_code": "WFFM+6V Bengaluru, Karnataka, India",
+            "global_code": "7J4VWFFM+6V"
+        },
+        "rating": 2.9,
+        "reference": "ChIJjwL9k9k-rjsRot9vKgzUpW4",
+        "scope": "GOOGLE",
+        "types": [
+            "bank",
+            "finance",
+            "point_of_interest",
+            "establishment"
+        ],
+        "user_ratings_total": 34,
+        "vicinity": "No.571, Kommaghatta Lake Road, Kengeri Satellite Town, Bengaluru"
+    },
+    {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+            "location": [Object
+            ],
+            "viewport": [Object
+            ]
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/school-71.png",
+        "icon_background_color": "#7B9EB0",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/school_pinlet",
+        "name": "SJB Institute of Technology",
+        "opening_hours": {
+            "open_now": false
+        },
+        "photos": [
+            [Object
+            ]
+        ],
+        "place_id": "ChIJ-0grzRU_rjsRw8yyyBd-J0Y",
+        "plus_code": {
+            "compound_code": "WF2W+7V Bengaluru, Karnataka, India",
+            "global_code": "7J4VWF2W+7V"
+        },
+        "rating": 4.3,
+        "reference": "ChIJ-0grzRU_rjsRw8yyyBd-J0Y",
+        "scope": "GOOGLE",
+        "types": [
+            "university",
+            "point_of_interest",
+            "establishment"
+        ],
+        "user_ratings_total": 2072,
+        "vicinity": "No.67, BGS Health & Education City, Dr.Vishnuvardhan Road, Kengeri, Bengaluru"
+    },
+    {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+            "location": [Object
+            ],
+            "viewport": [Object
+            ]
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+        "icon_background_color": "#7B9EB0",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+        "name": "Sri B Sachidananda Babu's Office - Dr. B.V. Raman Astrology & Vastu Zone",
+        "opening_hours": {
+            "open_now": false
+        },
+        "place_id": "ChIJGdXI3fc-rjsRgJZZ_a7Lmos",
+        "plus_code": {
+            "compound_code": "WGJ8+C7 Bengaluru, Karnataka, India",
+            "global_code": "7J4VWGJ8+C7"
+        },
+        "rating": 4.3,
+        "reference": "ChIJGdXI3fc-rjsRgJZZ_a7Lmos",
+        "scope": "GOOGLE",
+        "types": [
+            "health",
+            "point_of_interest",
+            "establishment"
+        ],
+        "user_ratings_total": 112,
+        "vicinity": "behind ICICI Bank, 1st Floor, 482/ A, 16th A Cross, Ideal Home Township,, behind ICICI Bank, Mysore Road, Kenchenhalli, Rajarajeshwari Nagar, Bengaluru"
+    },
+    {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+            "location": [Object
+            ],
+            "viewport": [Object
+            ]
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+        "icon_background_color": "#7B9EB0",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+        "name": "Sri Venkateshwara Nethralaya, Eye hospital and Lasik centre",
+        "opening_hours": {
+            "open_now": true
+        },
+        "photos": [
+            [Object
+            ]
+        ],
+        "place_id": "ChIJE8R9PncWrjsRiBH4RCC7AFA",
+        "plus_code": {
+            "compound_code": "WGG9+27 Bengaluru, Karnataka, India",
+            "global_code": "7J4VWGG9+27"
+        },
+        "rating": 4.6,
+        "reference": "ChIJE8R9PncWrjsRiBH4RCC7AFA",
+        "scope": "GOOGLE",
+        "types": [
+            "health",
+            "point_of_interest",
+            "establishment"
+        ],
+        "user_ratings_total": 754,
+        "vicinity": "Circle, opp. Nimishamba Temple, 120, 9th Main, Ideal Homes Township, Rajarajeshwari Nagar, Bengaluru"
+    },
+    {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+            "location": [Object
+            ],
+            "viewport": [Object
+            ]
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+        "icon_background_color": "#7B9EB0",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+        "name": "Magic Ecommerce Pvt Ltd",
+        "opening_hours": {
+            "open_now": true
+        },
+        "photos": [
+            [Object
+            ]
+        ],
+        "place_id": "ChIJW4UIa_s-rjsRwWWWSC22q6U",
+        "plus_code": {
+            "compound_code": "WGC4+WH Bengaluru, Karnataka, India",
+            "global_code": "7J4VWGC4+WH"
+        },
+        "rating": 5,
+        "reference": "ChIJW4UIa_s-rjsRwWWWSC22q6U",
+        "scope": "GOOGLE",
+        "types": [
+            "point_of_interest",
+            "store",
+            "establishment"
+        ],
+        "user_ratings_total": 3,
+        "vicinity": "104, BHEL II Stage, Pattanagere Main Road, BHEL Layout, Rajarajeshwari Nagar, Bengaluru"
+    },
+    {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+            "location": [Object
+            ],
+            "viewport": [Object
+            ]
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/school-71.png",
+        "icon_background_color": "#7B9EB0",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/school_pinlet",
+        "name": "B.E Academy",
+        "opening_hours": {
+            "open_now": true
+        },
+        "photos": [
+            [Object
+            ]
+        ],
+        "place_id": "ChIJlQfW-fEWrjsR1EIcJ1XIgwA",
+        "plus_code": {
+            "compound_code": "WG9C+GF Bengaluru, Karnataka, India",
+            "global_code": "7J4VWG9C+GF"
+        },
+        "rating": 3.6,
+        "reference": "ChIJlQfW-fEWrjsR1EIcJ1XIgwA",
+        "scope": "GOOGLE",
+        "types": [
+            "point_of_interest",
+            "establishment"
+        ],
+        "user_ratings_total": 5,
+        "vicinity": "# 1239, 3rd Stage,Near Ranga Mandira Ground, New Horizon Public School BEML, BEML Layout, 5th Stage, Rajarajeshwari Nagar, Bengaluru"
+    },
+    {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+            "location": [Object
+            ],
+            "viewport": [Object
+            ]
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+        "icon_background_color": "#FF9E67",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+        "name": "Beijing Bites",
+        "opening_hours": {
+            "open_now": true
+        },
+        "photos": [
+            [Object
+            ]
+        ],
+        "place_id": "ChIJzZ5vYVQ-rjsRE-spb3FNX78",
+        "plus_code": {
+            "compound_code": "WG87+MC Bengaluru, Karnataka, India",
+            "global_code": "7J4VWG87+MC"
+        },
+        "price_level": 2,
+        "rating": 3.5,
+        "reference": "ChIJzZ5vYVQ-rjsRE-spb3FNX78",
+        "scope": "GOOGLE",
+        "types": [
+            "restaurant",
+            "point_of_interest",
+            "food",
+            "establishment"
+        ],
+        "user_ratings_total": 766,
+        "vicinity": "1st Floor, GRG Complex, 1586, opposite SBI bank, Kenchena Halli Road, 5th Stage, Rajarajeshwari Nagar, Bengaluru"
+    },
+    {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+            "location": [Object
+            ],
+            "viewport": [Object
+            ]
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+        "icon_background_color": "#7B9EB0",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+        "name": "Maheshwari Hostel",
+        "opening_hours": {
+            "open_now": false
+        },
+        "photos": [
+            [Object
+            ]
+        ],
+        "place_id": "ChIJF7JN8Pc-rjsRu44AmMRXDrQ",
+        "plus_code": {
+            "compound_code": "WGJ8+23 Bengaluru, Karnataka, India",
+            "global_code": "7J4VWGJ8+23"
+        },
+        "rating": 4.5,
+        "reference": "ChIJF7JN8Pc-rjsRu44AmMRXDrQ",
+        "scope": "GOOGLE",
+        "types": [
+            "point_of_interest",
+            "establishment"
+        ],
+        "user_ratings_total": 141,
+        "vicinity": "336, 17th Cross Road, Ideal Homes Layout, Rajarajeshwari Nagar, Bengaluru"
+    },
+    {
+        "business_status": "CLOSED_TEMPORARILY",
+        "geometry": {
+            "location": [Object
+            ],
+            "viewport": [Object
+            ]
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/bank-71.png",
+        "icon_background_color": "#909CE1",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/bank-intl_pinlet",
+        "name": " 印第安奧弗西斯班克",
+        "permanently_closed": true,
+        "photos": [
+            [Object
+            ]
+        ],
+        "place_id": "ChIJk6l9AAQ_rjsRh2gfmB4FxvY",
+        "plus_code": {
+            "compound_code": "WG66+V3 Bengaluru, Karnataka, India",
+            "global_code": "7J4VWG66+V3"
+        },
+        "rating": 2.9,
+        "reference": "ChIJk6l9AAQ_rjsRh2gfmB4FxvY",
+        "scope": "GOOGLE",
+        "types": [
+            "bank",
+            "finance",
+            "point_of_interest",
+            "establishment"
+        ],
+        "user_ratings_total": 7,
+        "vicinity": "India"
+    },
+    {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+            "location": [Object
+            ],
+            "viewport": [Object
+            ]
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/school-71.png",
+        "icon_background_color": "#7B9EB0",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/school_pinlet",
+        "name": "Gnana Bodhini Primary School",
+        "photos": [
+            [Object
+            ]
+        ],
+        "place_id": "ChIJP0n6j-c-rjsRQ2_OFcG4zOM",
+        "rating": 4.7,
+        "reference": "ChIJP0n6j-c-rjsRQ2_OFcG4zOM",
+        "scope": "GOOGLE",
+        "types": [
+            "primary_school",
+            "school",
+            "point_of_interest",
+            "establishment"
+        ],
+        "user_ratings_total": 98,
+        "vicinity": "WFGV+FQC, Dubasi Palya, 2nd Phase, Gnanabharathi, Stage II, Kengeri Satellite Town, Bengaluru"
+    },
+    {
+        "business_status": "CLOSED_TEMPORARILY",
+        "geometry": {
+            "location": [Object
+            ],
+            "viewport": [Object
+            ]
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/bank-71.png",
+        "icon_background_color": "#909CE1",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/bank-intl_pinlet",
+        "name": "Bank of India Rajarajeshwarinagar",
+        "permanently_closed": true,
+        "photos": [
+            [Object
+            ]
+        ],
+        "place_id": "ChIJrTuEQ1Y-rjsRb3x8eojPm2M",
+        "plus_code": {
+            "compound_code": "WGG9+66 Bengaluru, Karnataka, India",
+            "global_code": "7J4VWGG9+66"
+        },
+        "rating": 4,
+        "reference": "ChIJrTuEQ1Y-rjsRb3x8eojPm2M",
+        "scope": "GOOGLE",
+        "types": [
+            "bank",
+            "finance",
+            "point_of_interest",
+            "establishment"
+        ],
+        "user_ratings_total": 24,
+        "vicinity": "9th Main Road, Ideal Homes Layout, Ideal Homes Township, Rajarajeshwari Nagar, Bengaluru"
+    },
+    {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+            "location": [Object
+            ],
+            "viewport": [Object
+            ]
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/school-71.png",
+        "icon_background_color": "#7B9EB0",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/school_pinlet",
+        "name": "Computer Science & Engineering",
+        "opening_hours": {
+            "open_now": false
+        },
+        "photos": [
+            [Object
+            ]
+        ],
+        "place_id": "ChIJyahsQOQ-rjsRAqFJwT1yiAU",
+        "plus_code": {
+            "compound_code": "WGF2+R5 Bengaluru, Karnataka, India",
+            "global_code": "7J4VWGF2+R5"
+        },
+        "rating": 4.4,
+        "reference": "ChIJyahsQOQ-rjsRAqFJwT1yiAU",
+        "scope": "GOOGLE",
+        "types": [
+            "point_of_interest",
+            "establishment"
+        ],
+        "user_ratings_total": 29,
+        "vicinity": "CSE R AND D DEPARTMENT, RV COLLEGE OF ENGINEERING, RVCE Main Road, RV Vidyaniketan, Mailasandra, Bengaluru"
+    },
+    {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+            "location": [Object
+            ],
+            "viewport": [Object
+            ]
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+        "icon_background_color": "#4B96F3",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+        "name": "Vasco Wood Pvt Ltd",
+        "opening_hours": {
+            "open_now": false
+        },
+        "photos": [
+            [Object
+            ]
+        ],
+        "place_id": "ChIJo7vHDWw-rjsR_fbwVZ5nFiQ",
+        "plus_code": {
+            "compound_code": "WGF3+8P Bengaluru, Karnataka, India",
+            "global_code": "7J4VWGF3+8P"
+        },
+        "rating": 5,
+        "reference": "ChIJo7vHDWw-rjsR_fbwVZ5nFiQ",
+        "scope": "GOOGLE",
+        "types": [
+            "point_of_interest",
+            "store",
+            "establishment"
+        ],
+        "user_ratings_total": 26,
+        "vicinity": "Site No 25/1, adjacent to Global Tech Park, Pattanagere, Kengeri, Bengaluru"
+    },
+    {
+        "geometry": {
+            "location": [Object
+            ],
+            "viewport": [Object
+            ]
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/geocode-71.png",
+        "icon_background_color": "#7B9EB0", "
